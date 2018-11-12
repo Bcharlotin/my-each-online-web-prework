@@ -12,4 +12,3 @@ def my_each(collection)
  collection
 end
 
-my_each(collection) {|x|  x}

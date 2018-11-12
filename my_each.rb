@@ -12,4 +12,4 @@ def my_each(collection)
  collection
 end
 
-my_each(collection) {|x| puts x}
+my_each(collection) {|x| return x}

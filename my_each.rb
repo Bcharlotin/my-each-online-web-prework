@@ -5,3 +5,4 @@ def my_each(collection)
          puts word
        end
 end
+end
